@@ -1,4 +1,4 @@
-name: Build Inferno Windows Executable 
+name: Build Inferno Windows Executable
 
 on:
   push:
